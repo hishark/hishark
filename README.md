@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **hishark/hishark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +15,4 @@ Here are some ideas to get you started:
 
 -->
 
-嗨我是777
+### 嗨我是777
