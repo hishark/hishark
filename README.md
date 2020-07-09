@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 
 ᐕ)୨ hi
 
-我是777
+普陀女子师专硕士在读
+
+学软工 喜欢软件 未来想做Android开发
+
+欢迎来到我的Repo━(*｀∀´*)ノ亻!
