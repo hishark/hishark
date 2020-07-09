@@ -16,10 +16,4 @@ Here are some ideas to get you started:
 
 -->
 
-Hi, my name is Xiaoqi Zhang.
-
-I'm a android developer from China.
-
-Get in touch
-Twitter: @hishark777
-Personal site: xiaoqizhang.com
+嗨我是777
