@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 科研废物 学软工 喜欢软件 未来想做Android开发
 
-欢迎来到我的Repo━(*｀∀´*)ノ亻!
+欢迎来到我的Repo━(ノ\*\`∀´\*)ノ亻!
