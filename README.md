@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ᐕ)୨ hi 我是小7
 
-普陀女子师专硕士在读
+普陀女子师专研一在读
 
 科研废物 学软工 喜欢软件 未来想做Android开发
 
