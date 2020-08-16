@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 普陀女子师专研二在读
 
-科研废物 学软工 喜欢软件 未来想做Android开发
+科研废物 学软工 喜欢软件 想赶紧毕业找工作养狗
 
 欢迎来到我的Repo！(ノ\*\`∀´\*)ノ
