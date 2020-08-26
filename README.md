@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hishark)](https://github.com/anuraghazra/github-readme-stats)
-
 ᐕ)୨ hi 我是小7
 
 普陀女子师专研二在读
@@ -23,3 +20,7 @@ Here are some ideas to get you started:
 科研废物 学软工 喜欢软件 想赶紧毕业找工作养狗
 
 欢迎来到我的Repo！(ノ\*\`∀´\*)ノ
+
+-->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hishark&show_icons=true)
+
