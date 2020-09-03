@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 -->
 
-- ⚡ Fun fact: ...
-
 ᐕ)୨ hi 我是小7
 
 普陀女子师专研二在读
