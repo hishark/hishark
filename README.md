@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 -->
-![](https://777blog.oss-cn-shanghai.aliyuncs.com/pic/IMG_5042.GIF)
 
-ᐕ)୨ hi 我是小7
+
+ᐕ)୨ hi 我是小7   ![](https://777blog.oss-cn-shanghai.aliyuncs.com/pic/IMG_5080.GIF)
 
 普陀女子师专研二在读
 
