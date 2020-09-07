@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 科研废物 学软工 喜欢软件 想赶紧毕业找工作养狗
 
 欢迎来到我的Repo！(ノ\*\`∀´\*)ノ
+
+![](https://komarev.com/ghpvc/?username=hishark&color=ff69b4)
