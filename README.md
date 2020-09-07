@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 欢迎来到我的Repo！(ノ\*\`∀´\*)ノ
 
-![](https://komarev.com/ghpvc/?username=hishark&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=hishark&color=ff69b4&label=🧀+VIEWS)
