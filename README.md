@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 科研废物编论文中
 
-坐等毕业
-
-欢迎来到我的Repo！(ノ\*\`∀´\*)ノ
+坐等毕业 :D
 
 ![](https://komarev.com/ghpvc/?username=hishark&color=EF8B98&label=🧀+VIEWS)
