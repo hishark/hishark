@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 普陀女子师专研三在读
 
-科研废物编论文中
-
-坐等毕业 :D
+我 要 毕 业 啦 > <
 
 ![](https://komarev.com/ghpvc/?username=hishark&color=EF8B98&label=🧀+VIEWS)
