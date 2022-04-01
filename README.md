@@ -21,8 +21,4 @@ Here are some ideas to get you started:
 
 ᐕ)୨ hi 我是小7   ![](https://777blog.oss-cn-shanghai.aliyuncs.com/pic/IMG_5080.GIF)
 
-普陀女子师专研三在读
-
-我 要 毕 业 啦 > <
-
 ![](https://komarev.com/ghpvc/?username=hishark&color=EF8B98&label=🧀+VIEWS)
